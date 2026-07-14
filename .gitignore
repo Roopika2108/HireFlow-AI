@@ -1,0 +1,17 @@
+# Backend
+hireflow-backend/target/
+hireflow-backend/uploads/
+
+# Frontend
+hireflow-frontend/node_modules/
+hireflow-frontend/dist/
+
+# IDE
+.idea/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
